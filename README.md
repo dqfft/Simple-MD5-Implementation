@@ -10,3 +10,4 @@ char *text ="Hello, World!";
 md5_hexdigest(text, digest);
 // digest == "65a8e27d8879283831b664bd8b7f0ad4"
 ```
+[RFC 1321](https://www.rfc-editor.org/rfc/rfc1321): MD5 Message-Digest Algorithm - April 1992
